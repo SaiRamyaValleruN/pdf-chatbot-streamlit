@@ -14,7 +14,7 @@ No OpenAI key required. Runs entirely on free, open-source models!
 
 ## 🚀 Features
 - 📎 Upload any PDF file
-- 🧠 Asks intelligent questions about the PDF
+- 🧠 Ask intelligent questions about the PDF
 - 🔥 No API key or paid services needed
 - 💻 Works locally on your computer
 - 🪄 Simple and clean UI using Streamlit
@@ -39,11 +39,17 @@ No OpenAI key required. Runs entirely on free, open-source models!
     streamlit run Chatbot.py
     ```
 
+4. If the above doesn't work, you can also try:
+    ```bash
+    python -m streamlit run Chatbot.py
+    ```
+
 ---
 
 ## 📸 Screenshot
 
-*(Upload a screenshot here later after running it!)*
+![image](https://github.com/user-attachments/assets/0f118372-9440-46d9-9eae-3a3716038a22)
+
 
 ---
 
@@ -62,7 +68,17 @@ No OpenAI key required. Runs entirely on free, open-source models!
 
 ---
 
-## 🤝 Acknowledgments
-Thanks to the amazing open-source AI community for providing free models!
+## 🤝 Contact Me
+
+If you face any issues or have questions, feel free to reach out!
+
+- 📧 Email: [sairamyavalleru@example.com]
+- 🐙 GitHub Issues: [Create an Issue](https://github.com/SaiRamyaValleruN/pdf-chatbot-streamlit/issues)
+
+---
+
+## 🙌 Acknowledgments
+Thanks to the amazing open-source AI community for providing free models!  
+Built with ❤️ by [Sai Ramya ValleruN](https://github.com/SaiRamyaValleruN)
 
 ---
